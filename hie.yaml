@@ -1,0 +1,8 @@
+cradle:
+  cabal:
+    - path: "src"
+      component: "lib:HHPC"
+    - path: "app"
+      component: "exe:HHPC"
+    - path: "tests/ex"
+      component: "test:ex"
